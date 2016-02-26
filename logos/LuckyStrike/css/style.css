@@ -1,0 +1,55 @@
+body{
+	font-family: "Calibri";
+	/*background-color: #01DFD7;*/
+}
+#titulo{
+	font-size: 2em;
+	color: #000;
+}
+#uno{
+	background-color: #000;
+	height: 10em;
+	width: 10em;
+	border-radius: 10em; 
+}
+#dos{
+	background-color: #B0AA66;
+	height: 9em;
+	width: 9em;
+	border-radius: 10em; 
+	position: absolute;
+	margin-top: 0.5em;
+	margin-left: 0.5em;
+}
+#tres{
+	background-color: #fff;
+	height: 7.5em;
+	width: 7.5em;
+	border-radius: 10em; 
+	position: absolute;
+	margin-top: 0.8em;
+	margin-left: 0.8em;
+}
+#cuatro{
+	background-color: #DF0101;
+	height: 6em;
+	width: 6em;
+	border-radius: 10em; 
+	position: absolute;
+	margin-top: 0.75em;
+	margin-left: 0.75em;
+}
+#cinco h1{
+	color: #000;
+	font-size: 1.5em;
+	font-weight: bolder;
+	position: absolute;
+	margin-top: 0.7em;
+}
+#cinco p{
+	font-size: 0.6em;
+	font-weight: bold;
+	position: absolute;
+	margin-top: 8em;
+	margin-left: 2.5em;
+}

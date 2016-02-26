@@ -1,0 +1,42 @@
+body{
+	font-family: "Arial";
+}
+#titulo{
+	font-size: 2.5em;
+	color: #000;
+}
+#contenedor{
+	margin: 0 auto;
+	width: 10em;
+	height: 10em;
+	position: relative;
+	/*margin-top: 5em;*/
+	float: left;
+}
+#contenedor ul li{
+	display: inline-block;
+	list-style-type: none;
+	width: 3em;
+	height: 3em;
+}
+#contenedor ul{
+	position: absolute;
+	margin-top: 2em;
+}
+#uno{
+	background-color: #DF7401;
+}
+#dos{
+	background-color: #A5DF00;
+}
+#tres{
+	background-color: #04B4AE;
+}
+#cuatro{
+	background-color: #FFBF00;
+}
+#nombre{
+	margin-top: 1em;
+	font-size: 3em;
+	float: left;
+}
