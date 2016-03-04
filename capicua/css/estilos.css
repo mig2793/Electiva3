@@ -1,0 +1,16 @@
+body
+{
+    font-family: Arial;
+}
+#capicua{
+    text-align: center;
+}
+.align{
+    display: inline-block;
+}
+.column1{
+    text-align: right;
+}
+.column2{
+    text-align: left;
+}
