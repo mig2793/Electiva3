@@ -1,0 +1,40 @@
+body{
+	width: 100%;
+	height: auto;
+}
+h1,h2,h3,h4,h5,h6{
+	font-weight: bold;
+}
+h1,h2,h3{
+	text-align: center;
+}
+p{
+	text-align: left;
+}
+.form-convert{
+	width: 30%;
+	float: left;
+	padding: 15px;
+	border: 2px solid black;
+	border-radius: 10px;
+	margin-left: 5px;
+	margin-top: 5px;
+	-webkit-box-shadow:3px 3px 7px black;
+}	
+button{
+	width: 100%;
+	margin-top: 10px !important;
+	margin-bottom: 10px;
+	border-radius: 10px;
+	height: 40px;
+	background-color: #1ABC9B;
+	border: none;
+	-webkit-box-shadow:2px 2px 2px black;
+
+}
+button:hover{
+	-webkit-box-shadow:inset 3px 3px 15px black
+}
+input{
+	width: 40%;
+}
